@@ -40,7 +40,7 @@ python src/main.py
 
 
 El programa:
-
+```
 - Genera listas de tamaños: 100, 1000, 5000 y 10000 elementos.
 - Evalúa dos escenarios:
 - Lista aleatoria
@@ -50,11 +50,11 @@ El programa:
 - Muestra los resultados en consola.
 - Genera un archivo CSV con los resultados.
 
----
+```
 
 ## Estructura del repositorio
 
-
+```
 U1A4-Comparacion-Ordenamientos/
 │
 ├── src/
@@ -67,7 +67,7 @@ U1A4-Comparacion-Ordenamientos/
 │ └── reporte_final.pdf
 │
 └── README.md
-
+```
 ---
 
 ## Resumen corto de resultados
